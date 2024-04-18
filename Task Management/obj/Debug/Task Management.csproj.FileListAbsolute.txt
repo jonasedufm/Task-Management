@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Desktop\Aula\C# - Projetos\Task Management\Task Management\bin\Debug\Task Management.exe.config
+C:\Users\jonas\OneDrive\Desktop\Aula\C# - Projetos\Task Management\Task Management\bin\Debug\Task Management.exe
+C:\Users\jonas\OneDrive\Desktop\Aula\C# - Projetos\Task Management\Task Management\bin\Debug\Task Management.pdb
+C:\Users\jonas\OneDrive\Desktop\Aula\C# - Projetos\Task Management\Task Management\obj\Debug\Task Management.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Desktop\Aula\C# - Projetos\Task Management\Task Management\obj\Debug\Task Management.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Aula\C# - Projetos\Task Management\Task Management\obj\Debug\Task Management.exe
+C:\Users\jonas\OneDrive\Desktop\Aula\C# - Projetos\Task Management\Task Management\obj\Debug\Task Management.pdb
